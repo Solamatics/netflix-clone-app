@@ -1,0 +1,64 @@
+[debug] [2020-11-14T19:25:17.184Z] ----------------------------------------------------------------------
+[debug] [2020-11-14T19:25:17.192Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\SOLA AFIKODE\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init Hosting
+[debug] [2020-11-14T19:25:17.193Z] CLI Version:   8.15.1
+[debug] [2020-11-14T19:25:17.193Z] Platform:      win32
+[debug] [2020-11-14T19:25:17.193Z] Node Version:  v12.17.0
+[debug] [2020-11-14T19:25:17.197Z] Time:          Sat Nov 14 2020 20:25:17 GMT+0100 (West Africa Standard Time)
+[debug] [2020-11-14T19:25:17.197Z] ----------------------------------------------------------------------
+[debug] [2020-11-14T19:25:17.198Z] 
+[debug] [2020-11-14T19:25:17.217Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-11-14T19:25:17.219Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Workspace\Web_Apps\react_apps\netflix-clone\netflix-clone-app
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2020-11-14T19:26:22.605Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-11-14T19:26:22.607Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-11-14T19:26:23.962Z] <<< HTTP RESPONSE 200 {"date":"Sat, 14 Nov 2020 19:26:23 GMT","expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","cache-control":"no-cache, no-store, max-age=0, must-revalidate","content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-Q050=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-11-14T19:26:24.035Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/availableProjects?pageSize=100  
+ 
+[debug] [2020-11-14T19:26:25.386Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Sat, 14 Nov 2020 19:26:25 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-Q050=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-11-14T19:37:01.688Z] ----------------------------------------------------------------------
+[debug] [2020-11-14T19:37:01.697Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\SOLA AFIKODE\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init Hosting
+[debug] [2020-11-14T19:37:01.699Z] CLI Version:   8.15.1
+[debug] [2020-11-14T19:37:01.700Z] Platform:      win32
+[debug] [2020-11-14T19:37:01.701Z] Node Version:  v12.17.0
+[debug] [2020-11-14T19:37:01.706Z] Time:          Sat Nov 14 2020 20:37:01 GMT+0100 (West Africa Standard Time)
+[debug] [2020-11-14T19:37:01.706Z] ----------------------------------------------------------------------
+[debug] [2020-11-14T19:37:01.707Z] 
+[debug] [2020-11-14T19:37:01.735Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-11-14T19:37:01.736Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Workspace\Web_Apps\react_apps\netflix-clone\netflix-clone-app
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
